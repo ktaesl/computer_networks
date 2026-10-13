@@ -61,17 +61,10 @@
 
 ---
 
-## Установка и запуск
+## Установка 
 
 ```bash
 git clone [https://github.com/ktaesl/computer_networks.git]
-```
-
-**Запуск конкретной работы:**
-
-```bash
-cd [labs/lab01-название]
-[команда запуска]
 ```
 
 ---
